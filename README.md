@@ -21,10 +21,10 @@ brew install tmex
 Verify installation:
 ```sh
 tmex -v
-==> tmex 2.0.0-rc.8
+==> tmex 2.0.2
 brew test tmex
 ==> Testing tmex
-==> /opt/homebrew/Cellar/tmex/2.0.0-rc.8/bin/tmex test --print 1234 hello world
+==> /opt/homebrew/Cellar/tmex/2.0.2/bin/tmex test --print 1234 hello world
 ```
 
 License
