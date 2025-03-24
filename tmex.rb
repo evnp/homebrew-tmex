@@ -2,7 +2,7 @@ class Tmex < Formula
   desc "tmux-execute – a lightweight tmux command & layout composer"
   homepage "https://github.com/evnp/tmex"
   url "https://github.com/evnp/tmex/archive/v2.0.3.tar.gz"
-  # sha256 "47a7342e2dfd893d1fb3ee073ebf1cf5b67e92102d5fb034dfe10a87cc21a5d9"
+  sha256 "98cd4046421b6dad611628261932243481d2454c09e6670b3f7c09f48483c81d"
   license "MIT"
 
   def install
