@@ -1,3 +1,13 @@
+> [!WARNING]
+> **This repository is deprecated.** You can now install tmex from Homebrew core, without a tap:<br>
+> ```
+> brew install tmex
+> ```
+> This will ensure the latest version of tmex is installed.<br>
+> Please see https://formulae.brew.sh/formula/tmex for further information.
+
+---
+
 Homebrew tap for
 
 ```
